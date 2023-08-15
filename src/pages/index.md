@@ -1,21 +1,21 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: Vikas Kumar - Resume
+description: Resume about Vikas Kumar, Staff Engineer, ALPS IQuanti.
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# Vikas Kumar
 
 **Programmer**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Bangalore, India | contact@vikaskumar.in | http://vikaskumar.in
 
 Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [IQuanti](https://www.alps.ai/)
 
 #### Senior Software Engineer | Oct 2022 - Current
 
@@ -57,6 +57,6 @@ Innovative middle-out compression algorithm that changes the way we store data.
 
 ## Education
 
-### University of Oklahoma
+### Visvesvaraya Technological University
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### Bachelor, Electronics & Communication | 2012
