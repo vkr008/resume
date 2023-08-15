@@ -9,7 +9,7 @@ pdfLink: resume.pdf
 
 **Data Expert**
 
-Bangalore, India | contact@vikaskumar.in | [linkedin@vikaskumar.in](http://linkedin.vikaskumar.in/) | +918971576342
+Bangalore, India | contact@vikaskumar.in | [linkedin.vikaskumar.in](http://linkedin.vikaskumar.in/) | +918971576342
 
 Vikas, a Bangalore-based professional, holds degrees from Visvesvaraya Technological University (VTU). With an enduring passion for data and data-driven tools, he excels in transforming raw data into valuable insights, fueling decision-making processes. His adeptness with cutting-edge tools underscores his excellence in the field. The surge of Big Data intensifies his fervor for this domain. "Present him with the data!"
 
@@ -41,12 +41,13 @@ Vikas, a Bangalore-based professional, holds degrees from Visvesvaraya Technolog
 #### Staff Engineer | Apr 2020 - Current
 
 - Conceives cutting-edge products exceeding customer expectations.
-- Formulates high-performance, data-driven solutions.
-- Develops responsive front-end interfaces for swift access.
+- Formulates high-performance, data-driven solutions using all cloud infra.
+- Develops flexible backend data platform.
 - Expedites product releases and integrates enhancements.
 - Ensures data quality and governance across the system lifecycle.
 - Performs meticulous analysis on diverse cloud-based platforms.
-- Delivers reports that consistently exceed client expectations.
+- Delivers reports that consistently exceed customer and product owners expectations.
+- Optimized operation cost, automated deployment pipeline.
 
 ### [Capgemini](https://www.capgemini.com/in-en/)
 
