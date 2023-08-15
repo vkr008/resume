@@ -15,12 +15,18 @@ Vikas Kumar hails from Bangalore. He has earned degrees from Visvesvaraya Techno
 
 ## Technical Expertise
 
-| Item              | In Stock | Price |
-| :---------------- | :------: | ----: |
-| Programming Languages        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+| Concepts              |																		  	|
+| :-------------------- | :-----------------------------------------------------------------------: |
+| Programming Languages | Python, SQL, Unix Shell Scripting, PLSQL, Hive                			|
+| Data Analysis Tools   | PowerBI, Tableau, R Programming, Excel, SAP Business Objects      		|
+| Cloud Platforms       | AWS - Lamdba, API, EC2, RDS, S3, CloudWatch. Azure – DevOPS       		|
+| NoSQL Databases       | Druid, HBase, ElasticSearch									    		|
+| Relational Databases  | Snowflake, PostgreSQL, Oracle, Exadata, MySQL, SyBase IQ		    		|
+| Scheduling Tools    	| Control M Desktop, Crontab (Unix)								    		|
+| ETL Tools				| Matillion, Informatica PowerCenter (Designer, Workflow, Monitor)  		|
+| Operating Systems 	| MacOS, Unix, Linux, Windows									    		|
+| Version Control   	| Git (for Databases as well), SVN								    		|
+| Domains				| Digital Marketing, Manufacturing, Investment Banking, Digital Banking   	|
 
 ## Work Experience
 
