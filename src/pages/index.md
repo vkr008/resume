@@ -22,7 +22,7 @@ Vikas, based in Bangalore, holds degrees from Visvesvaraya Technological Univers
 - Designs efficient data models blending real-world scenarios and tech.
 - Enthusiastic about learning - serverless cloud, ML, data viz.
 
-| Technical Expertise   |                                                                      			|
+| #Technical Expertise  |                                                                      			|
 | :-------------------- | :------------------------------------------------------------------------ |
 | Programming Languages | Python, SQL, Unix Shell Scripting, PLSQL, Hive                      			|
 | Data Analysis Tools   | PowerBI, Tableau, R Programming, Excel, SAP Business Objects          		|
@@ -80,13 +80,12 @@ Nisi sit consectetur consectetur nulla. Nulla nostrud aliqua duis aliquip sunt. 
 
 Innovative middle-out compression algorithm that changes the way we store data.
 
-| Languages | Level        	|
+| #Languages| #Level       	|
 | :-------- | :------------ |
 | English   | Professional	|
 | Hindi     | Native     		|
 
 ## Education
-
 ### Visvesvaraya Technological University
 
 #### Bachelor, Electronics & Communication | 2012
