@@ -9,7 +9,7 @@ pdfLink: resume.pdf
 
 **Data Expert**
 
-Bangalore, India | contact@vikaskumar.in | +918971576342
+Bangalore, India | contact@vikaskumar.in | [link@vikaskumar.in](http://linkedin.vikaskumar.in/) | +918971576342
 
 Vikas, a Bangalore-based professional, holds degrees from Visvesvaraya Technological University (VTU). With an enduring passion for data and data-driven tools, he excels in transforming raw data into valuable insights, fueling decision-making processes. His adeptness with cutting-edge tools underscores his excellence in the field. The surge of Big Data intensifies his fervor for this domain. "Present him with the data!"
 
