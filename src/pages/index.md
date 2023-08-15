@@ -17,7 +17,7 @@ Vikas, a Bangalore-based professional, holds degrees from Visvesvaraya Technolog
 - Designs real-time decision architectures, aligning choices with business needs.
 - Commits to continuous improvement, meeting project deadlines, for insightful decisions.
 - Executes successful POCs, using Druid for high-performance time-series analysis.
-- Integrates AWS APIs, Lambda, EC2, S3, RDS, Cloudera Hive, HBase, Elastic Search.
+- Integrates AWS APIs, Lambda, EC2, S3, RDS, Cloudera Hive, HBase, Elastic Search etc.
 - Automates with Unix/Python, crafts SQL queries, optimizing processes.
 - Designs efficient data models blending real-world scenarios and tech.
 - Enthusiastic about learning - serverless cloud, ML, data viz.
