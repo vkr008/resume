@@ -9,14 +9,14 @@ pdfLink: resume.pdf
 
 **Data Expert**
 
-Bangalore, India | contact@vikaskumar.in | http://vikaskumar.in | +918971576342
+Bangalore, India | contact@vikaskumar.in | +918971576342
 
 Vikas Kumar hails from Bangalore. He has earned degrees from Visvesvaraya Technological University (VTU). Since the inception of his career, he has consistently demonstrated a profound enthusiasm for data and data-driven products and tools. He derives immense satisfaction from synthesizing information to generate consequential business insights and inform decision-making protocols. His pleasure arises from the visualization of the metamorphosis of unprocessed data into invaluable nuggets of information. Fortuitously, he has had the opportunity to collaborate with state-of-the-art tools that have facilitated his excellence in this domain. The recent proliferation of Big Data has augmented his ardor, rendering this period even more exhilarating for his involvement in this sphere. "Present him with the data!"
 
 ## Technical Expertise
 
 | Concepts              |																		  	|
-| :-------------------- | :-----------------------------------------------------------------------: |
+| :-------------------- | :------------------------------------------------------------------------ |
 | Programming Languages | Python, SQL, Unix Shell Scripting, PLSQL, Hive                			|
 | Data Analysis Tools   | PowerBI, Tableau, R Programming, Excel, SAP Business Objects      		|
 | Cloud Platforms       | AWS - Lamdba, API, EC2, RDS, S3, CloudWatch. Azure – DevOPS       		|
