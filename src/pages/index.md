@@ -13,11 +13,11 @@ Bangalore, India | contact@vikaskumar.in | +918971576342
 
 Vikas Kumar, based in Bangalore, holds degrees from Visvesvaraya Technological University (VTU). Throughout his career, he has consistently showcased a strong enthusiasm for data and data-driven tools. He takes satisfaction in transforming raw data into valuable insights, fueling decision-making processes. His experience with cutting-edge tools has honed his excellence in this field. The rise of Big Data has further amplified his passion for this domain. "Present him with the data!"
 
-- Proficient in optimizing data-driven products with Big Data tools, adapting to new tech and legacy systems.
-- Tailors real-time decision architectures to diverse industries, aligning data-driven choices with business needs.
-- Commits to continuous improvement, meeting project deadlines, and utilizing varied tech stacks for insightful decisions.
+- Proficient in optimizing data-driven products with Big Data tools, adapting to new tech.
+- Tailors real-time decision architectures, aligning data-driven choices with business needs.
+- Commits to continuous improvement, meeting project deadlines, for insightful decisions.
 - Executed successful POCs, using Druid for high-performance time-series analysis.
-- Integrates AWS APIs, Lambda, EC2, S3, RDS, Cloudera Hive, HBase, Elastic Search, and explores ETL tools.
+- Integrates multiple AWS Services and ETL tools.
 - Crafts SQL queries, automates with Unix/Python, optimizing processes.
 - Designs efficient data models blending real-world scenarios and tech.
 - Enthusiastic about learning - serverless cloud, ML, data viz.
