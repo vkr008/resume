@@ -22,7 +22,7 @@ Vikas, based in Bangalore, holds degrees from Visvesvaraya Technological Univers
 - Designs efficient data models blending real-world scenarios and tech.
 - Enthusiastic about learning - serverless cloud, ML, data viz.
 
-| #Technical Expertise  |                                                                      			|
+| Technical Expertise   |                                                                      			|
 | :-------------------- | :------------------------------------------------------------------------ |
 | Programming Languages | Python, SQL, Unix Shell Scripting, PLSQL, Hive                      			|
 | Data Analysis Tools   | PowerBI, Tableau, R Programming, Excel, SAP Business Objects          		|
@@ -42,45 +42,72 @@ Vikas, based in Bangalore, holds degrees from Visvesvaraya Technological Univers
 
 #### Staff Engineer | Apr 2020 - Current
 
-In the capacity of a team leader within the strategic division of Digital Marketing, he bears the responsibility of conceiving cutting-edge products surpassing customer expectations. This entails formulating high-performance, data-driven solutions, meticulously selecting optimal tools to bolster the platform's substantial data load, and orchestrating the development of responsive front-end interfaces ensuring swift access to information.
+In his role as a team leader in the strategic division of Digital Marketing:
 
-Furthermore, his dedication extends to expediting the product's market release, integrating continuous enhancement methodologies, and optimizing code wherever feasible. In his role as a team member, he also oversees comprehensive data quality and governance across the system's lifecycle, from initial data staging to final reporting. By instituting and upholding stringent standards, he guarantees the seamless functionality of intricate metrics and models underpinning the products.
+- Conceives cutting-edge products exceeding customer expectations.
+- Formulates high-performance, data-driven solutions.
+- Selects optimal tools for substantial data loads.
+- Develops responsive front-end interfaces for swift access.
 
-This vigilance is particularly vital given the escalating volumes of data bolstering our offerings. His meticulous data analysis encompasses vast quantities from diverse cloud-based platforms such as Amazon EC2, RDS, S3, Snowflake, culminating in the delivery of reports that consistently meet or exceed client anticipations.
+Moreover, his commitment involves:
+
+- Expediting product releases and integrating enhancements.
+- Optimizing code for efficiency.
+- Overseeing data quality and governance across the system lifecycle.
+- Instituting stringent standards for metric and model functionality.
+
+His vigilance is crucial due to escalating data volumes:
+
+- Meticulous analysis of diverse cloud-based platforms.
+- Delivery of reports that consistently exceed client expectations.
 
 ### [Capgemini](https://www.capgemini.com/in-en/)
 
 #### Data Engineer | Apr 2019 - Mar 2020
 
-During his tenure at Capgemini, he undertook the responsibility of establishing a novel data pipeline from the ground up, employing diverse big data tools. Furthermore, he engaged in crafting a wrapper encompassing an extant data ingestion framework. Within his purview, he partook in data modeling to facilitate the storage of information in SyBase IQ, sourced from upstream systems such as Finacle, while serving a major US-based bank. 
+- Established a new data pipeline using diverse big data tools.
+- Created a wrapper for an existing data ingestion framework.
+- Conducted data modeling for SyBase IQ, sourcing from systems like Finacle for a major US-based bank.
+- Led the development of a user interface enabling attribute input for transformative processes.
+- Enhanced processes at a significant US-based financial institution.
 
-In addition, he spearheaded a pioneering endeavor centered on creating a user interface. This interface empowered users to input attributes pertaining to input, output, and transformative processes, contributing to the enhancement of processes at a significant US-based financial institution.
+### [Introlligent](https://www.introlligent.com/)
 
-### [Pied Piper](http://piedpiper.com/)
+#### Data Quality Analyst | Sep 2016 - Apr 2019
 
-#### CEO/President | Dec 2013 - Dec 2014
+- Led groundbreaking real-time Druid POC and governance report in factory production, using technologies like Hadoop, Hive, MySQL, Python, HBase, Elasticsearch.
+- Ensured high-quality, business-aligned data; user feedback showed real-time efficiency improvements and compliance enhancements.
+- Enforced strict data quality standards across products and factories, validating 40 metrics with rigorous exploration.
+- Collaborated with stakeholders including China vendors, resolving data issues with ad hoc scripts and automation.
+- Timely delivery of multiple daily reports, averting production line downtime.
+- Coordinated with vendors for crucial operational data.
+- Implemented exploratory Tableau reports, aiding analysis.
+- Established in-house data ingestion for a single source of truth.
+- Collaborated with factory FAs and New Product team.
+- Worked across teams for various tasks.
+- Assisted in migrating from flat file to JSON structure.
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+### [Tata Consultancy Services](https://www.tcs.com/)
 
-## Projects
+#### System Engineer | Mar 2013 - Sep 2016
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+- Developed proof-of-concept models and evaluated big data stacks like Spark and Hadoop.
+- Automated processes using Python and Shell scripting for improved efficiency.
+- Managed ETL operations on RDS for risk calculations from diverse feeds, ensuring data quality.
+- Generated reports on MARS and STAR systems, collaborating with stakeholders for accuracy.
+- Integrated global data sources (flat files, web services, etc.) and designed mappings for regulatory projects.
+- Led code changes within JIRA's SLAs, resolving production incidents with advanced SQL queries.
+- Oversaw team creating feeds for regulatory projects and collaborated with auditors for compliance.
+- Automated task scheduling with UNIX, SQL, and Control M, analyzing over 10k jobs for efficiency.
+- Created Python scripts for automation and designed data models with dimensions.
+- As an ILP Trainer, facilitated new hires' onboarding, imparting technical skills and data visualization.
+- Researched and resolved data quality issues, crafted case studies, and developed data models.
+- Designed new data models using STAR and SNOWFLAKE schemes in ORACLE database.
+- Created critical reports using Business Objects and designed universes for training.
+  
 
-#### Occaecat qui Lorem adipisicing ut sunt aute. | Oct 2014
-
-Nisi sit consectetur consectetur nulla. Nulla nostrud aliqua duis aliquip sunt. Cupidatat commodo cillum dolore nulla veniam enim in enim sint velit proident. Cupidatat laboris exercitation aliquip dolore eu elit. In mollit veniam eiusmod irure anim sit aute eu magna cillum. Sint aute irure laboris aute officia in velit in irure deserunt. Incididunt mollit mollit pariatur laborum laboris mollit ad enim ipsum deserunt. Ad tempor nulla occaecat consequat dolor nulla
-
-#### Video Compression for 3D Media
-
-#### Founder | Oct 2014
-
-Innovative middle-out compression algorithm that changes the way we store data.
-
-| #Languages| #Level       	|
+| Languages | Level       	|
 | :-------- | :------------ |
 | English   | Professional	|
 | Hindi     | Native     		|
