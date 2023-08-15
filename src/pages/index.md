@@ -51,9 +51,9 @@ Innovative middle-out compression algorithm that changes the way we store data.
 
 ## Languages
 
-| English        |
+| English, Hindi        |
 | -------------- |
-| Native speaker |
+| Professional, Native speaker |
 
 ## Education
 
