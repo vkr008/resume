@@ -11,7 +11,7 @@ pdfLink: resume.pdf
 
 Bangalore, India | contact@vikaskumar.in | +918971576342
 
-Vikas Kumar, based in Bangalore, holds degrees from Visvesvaraya Technological University (VTU). Throughout his career, he has consistently showcased a strong enthusiasm for data and data-driven tools. He takes satisfaction in transforming raw data into valuable insights, fueling decision-making processes. His experience with cutting-edge tools has honed his excellence in this field. The rise of Big Data has further amplified his passion for this domain. "Present him with the data!"
+Vikas, based in Bangalore, holds degrees from Visvesvaraya Technological University (VTU). Throughout his career, he has consistently showcased a strong enthusiasm for data and data-driven tools. He takes satisfaction in transforming raw data into valuable insights, fueling decision-making processes. His experience with cutting-edge tools has honed his excellence in this field. The rise of Big Data has further amplified his passion for this domain. "Present him with the data!"
 
 - Proficient in optimizing data-driven products with Big Data tools, adapting to new tech.
 - Tailors real-time decision architectures, aligning data-driven choices with business needs.
@@ -22,9 +22,7 @@ Vikas Kumar, based in Bangalore, holds degrees from Visvesvaraya Technological U
 - Designs efficient data models blending real-world scenarios and tech.
 - Enthusiastic about learning - serverless cloud, ML, data viz.
 
-## Technical Expertise
-
-|                       |                                                                      			|
+| Technical Expertise   |                                                                      			|
 | :-------------------- | :------------------------------------------------------------------------ |
 | Programming Languages | Python, SQL, Unix Shell Scripting, PLSQL, Hive                      			|
 | Data Analysis Tools   | PowerBI, Tableau, R Programming, Excel, SAP Business Objects          		|
@@ -36,6 +34,7 @@ Vikas Kumar, based in Bangalore, holds degrees from Visvesvaraya Technological U
 | Operating Systems   	| MacOS, Unix, Linux, Windows									                           		|
 | Version Control     	| Git (for Databases as well), SVN							                    	   		|
 | Domains			        	| Digital Marketing, Manufacturing, Investment Banking, Digital Banking    	|
+
 
 ## Work Experience
 
@@ -81,9 +80,7 @@ Nisi sit consectetur consectetur nulla. Nulla nostrud aliqua duis aliquip sunt. 
 
 Innovative middle-out compression algorithm that changes the way we store data.
 
-## Languages
-
-|           |             	|
+| Languages | Level        	|
 | :-------- | :------------ |
 | English   | Professional	|
 | Hindi     | Native     		|
