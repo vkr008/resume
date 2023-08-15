@@ -24,18 +24,17 @@ Vikas Kumar, based in Bangalore, holds degrees from Visvesvaraya Technological U
 
 ## Technical Expertise
 
-| Concepts              |																		  	|
 | :-------------------- | :------------------------------------------------------------------------ |
-| Programming Languages | Python, SQL, Unix Shell Scripting, PLSQL, Hive                			|
-| Data Analysis Tools   | PowerBI, Tableau, R Programming, Excel, SAP Business Objects      		|
-| Cloud Platforms       | AWS - Lamdba, API, EC2, RDS, S3, CloudWatch. Azure – DevOPS       		|
-| NoSQL Databases       | Druid, HBase, ElasticSearch									    		|
-| Relational Databases  | Snowflake, PostgreSQL, Oracle, Exadata, MySQL, SyBase IQ		    		|
-| Scheduling Tools    	| Control M Desktop, Crontab (Unix)								    		|
-| ETL Tools				| Matillion, Informatica PowerCenter (Designer, Workflow, Monitor)  		|
-| Operating Systems 	| MacOS, Unix, Linux, Windows									    		|
-| Version Control   	| Git (for Databases as well), SVN								    		|
-| Domains				| Digital Marketing, Manufacturing, Investment Banking, Digital Banking   	|
+| Programming Languages | Python, SQL, Unix Shell Scripting, PLSQL, Hive                      			|
+| Data Analysis Tools   | PowerBI, Tableau, R Programming, Excel, SAP Business Objects          		|
+| Cloud Platforms       | AWS - Lamdba, API, EC2, RDS, S3, CloudWatch. Azure – DevOPS           		|
+| NoSQL Databases       | Druid, HBase, ElasticSearch									                          		|
+| Relational Databases  | Snowflake, PostgreSQL, Oracle, Exadata, MySQL, SyBase IQ		          		|
+| Scheduling Tools    	| Control M Desktop, Crontab (Unix)								    	                  	|
+| ETL Tools			      	| Matillion, Informatica PowerCenter (Designer, Workflow, Monitor)        	|
+| Operating Systems   	| MacOS, Unix, Linux, Windows									                           		|
+| Version Control     	| Git (for Databases as well), SVN							                    	   		|
+| Domains			        	| Digital Marketing, Manufacturing, Investment Banking, Digital Banking    	|
 
 ## Work Experience
 
@@ -83,16 +82,26 @@ Innovative middle-out compression algorithm that changes the way we store data.
 
 ## Languages
 
-| English        |
-| -------------- |
-| Professional speaker |
-
-| Hindi        |
-| -------------- |
-| Native speaker |
+| :-------- | :------------ |
+| English   | Professional	|
+| Hindi     | Native     		|
 
 ## Education
 
 ### Visvesvaraya Technological University
 
 #### Bachelor, Electronics & Communication | 2012
+
+
+## Activities
+
+- Collaborated on the aesthetic enhancement of TCS offices by painting walls and galleries.
+- Participated in CSR initiatives aimed at mentoring and teaching underprivileged students.
+- Utilized artistic skills to create caricature designs.
+- Organized team events to promote team building and foster a positive work environment.
+- Coordinated a large-scale event, the 'IT Wiz Quiz,' which attracted over 2000 student participants.
+
+## On-Site Exposure
+
+- Traveled to various cities in China for work-related purposes on multiple occasions.
+
