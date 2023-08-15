@@ -11,7 +11,16 @@ pdfLink: resume.pdf
 
 Bangalore, India | contact@vikaskumar.in | +918971576342
 
-Vikas Kumar hails from Bangalore. He has earned degrees from Visvesvaraya Technological University (VTU). Since the inception of his career, he has consistently demonstrated a profound enthusiasm for data and data-driven products and tools. He derives immense satisfaction from synthesizing information to generate consequential business insights and inform decision-making protocols. His pleasure arises from the visualization of the metamorphosis of unprocessed data into invaluable nuggets of information. Fortuitously, he has had the opportunity to collaborate with state-of-the-art tools that have facilitated his excellence in this domain. The recent proliferation of Big Data has augmented his ardor, rendering this period even more exhilarating for his involvement in this sphere. "Present him with the data!"
+Vikas Kumar, based in Bangalore, holds degrees from Visvesvaraya Technological University (VTU). Throughout his career, he has consistently showcased a strong enthusiasm for data and data-driven tools. He takes satisfaction in transforming raw data into valuable insights, fueling decision-making processes. His experience with cutting-edge tools has honed his excellence in this field. The rise of Big Data has further amplified his passion for this domain. "Present him with the data!"
+
+- Proficient in optimizing data-driven products with Big Data tools, adapting to new tech and legacy systems.
+- Tailors real-time decision architectures to diverse industries, aligning data-driven choices with business needs.
+- Commits to continuous improvement, meeting project deadlines, and utilizing varied tech stacks for insightful decisions.
+- Executed successful POCs, using Druid for high-performance time-series analysis.
+- Integrates AWS APIs, Lambda, EC2, S3, RDS, Cloudera Hive, HBase, Elastic Search, and explores ETL tools.
+- Crafts SQL queries, automates with Unix/Python, optimizing processes.
+- Designs efficient data models blending real-world scenarios and tech.
+- Enthusiastic about learning - serverless cloud, ML, data viz.
 
 ## Technical Expertise
 
