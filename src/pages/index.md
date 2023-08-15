@@ -7,7 +7,7 @@ pdfLink: resume.pdf
 
 # Vikas Kumar
 
-**Programmer**
+**Data Expert**
 
 Bangalore, India | contact@vikaskumar.in | http://vikaskumar.in | +918971576342
 
