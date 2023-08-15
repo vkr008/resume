@@ -24,6 +24,7 @@ Vikas Kumar, based in Bangalore, holds degrees from Visvesvaraya Technological U
 
 ## Technical Expertise
 
+|                       |                                                                      			|
 | :-------------------- | :------------------------------------------------------------------------ |
 | Programming Languages | Python, SQL, Unix Shell Scripting, PLSQL, Hive                      			|
 | Data Analysis Tools   | PowerBI, Tableau, R Programming, Excel, SAP Business Objects          		|
@@ -82,6 +83,7 @@ Innovative middle-out compression algorithm that changes the way we store data.
 
 ## Languages
 
+|           |             	|
 | :-------- | :------------ |
 | English   | Professional	|
 | Hindi     | Native     		|
