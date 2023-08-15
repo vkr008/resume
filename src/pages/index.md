@@ -11,19 +11,27 @@ pdfLink: resume.pdf
 
 Bangalore, India | contact@vikaskumar.in | http://vikaskumar.in
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+Vikas Kumar hails from Bangalore. He has earned degrees from Visvesvaraya Technological University (VTU). Since the inception of his career, he has consistently demonstrated a profound enthusiasm for data and data-driven products and tools. He derives immense satisfaction from synthesizing information to generate consequential business insights and inform decision-making protocols. His pleasure arises from the visualization of the metamorphosis of unprocessed data into invaluable nuggets of information. Fortuitously, he has had the opportunity to collaborate with state-of-the-art tools that have facilitated his excellence in this domain. The recent proliferation of Big Data has augmented his ardor, rendering this period even more exhilarating for his involvement in this sphere. "Present him with the data!"
 
 ## Work Experience
 
 ### [IQuanti](https://www.alps.ai/)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### Staff Engineer | Apr 2020 - Current
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+In the capacity of a team leader within the strategic division of Digital Marketing, he bears the responsibility of conceiving cutting-edge products surpassing customer expectations. This entails formulating high-performance, data-driven solutions, meticulously selecting optimal tools to bolster the platform's substantial data load, and orchestrating the development of responsive front-end interfaces ensuring swift access to information.
 
-#### Software Engineer | Aug 2018 - Oct 2022
+Furthermore, his dedication extends to expediting the product's market release, integrating continuous enhancement methodologies, and optimizing code wherever feasible. In his role as a team member, he also oversees comprehensive data quality and governance across the system's lifecycle, from initial data staging to final reporting. By instituting and upholding stringent standards, he guarantees the seamless functionality of intricate metrics and models underpinning the products.
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+This vigilance is particularly vital given the escalating volumes of data bolstering our offerings. His meticulous data analysis encompasses vast quantities from diverse cloud-based platforms such as Amazon EC2, RDS, S3, Snowflake, culminating in the delivery of reports that consistently meet or exceed client anticipations.
+
+### [Capgemini](https://www.capgemini.com/in-en/)
+
+#### Data Engineer | Apr 2019 - Mar 2020
+
+During his tenure at Capgemini, he undertook the responsibility of establishing a novel data pipeline from the ground up, employing diverse big data tools. Furthermore, he engaged in crafting a wrapper encompassing an extant data ingestion framework. Within his purview, he partook in data modeling to facilitate the storage of information in SyBase IQ, sourced from upstream systems such as Finacle, while serving a major US-based bank. 
+
+In addition, he spearheaded a pioneering endeavor centered on creating a user interface. This interface empowered users to input attributes pertaining to input, output, and transformative processes, contributing to the enhancement of processes at a significant US-based financial institution.
 
 ### [Pied Piper](http://piedpiper.com/)
 
