@@ -36,6 +36,8 @@ Vikas, based in Bangalore, holds degrees from Visvesvaraya Technological Univers
 | Domains			        	| Digital Marketing, Manufacturing, Investment Banking, Digital Banking    	|
 
 
+
+
 ## Work Experience
 
 ### [IQuanti](https://www.alps.ai/)
@@ -61,6 +63,7 @@ His vigilance is crucial due to escalating data volumes:
 - Meticulous analysis of diverse cloud-based platforms.
 - Delivery of reports that consistently exceed client expectations.
 
+
 ### [Capgemini](https://www.capgemini.com/in-en/)
 
 #### Data Engineer | Apr 2019 - Mar 2020
@@ -70,6 +73,9 @@ His vigilance is crucial due to escalating data volumes:
 - Conducted data modeling for SyBase IQ, sourcing from systems like Finacle for a major US-based bank.
 - Led the development of a user interface enabling attribute input for transformative processes.
 - Enhanced processes at a significant US-based financial institution.
+
+
+
 
 ### [Introlligent](https://www.introlligent.com/)
 
